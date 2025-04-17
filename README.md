@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [GloboVibe](https://globovibe-frontend.vercel.app)
 
-- 🌱 I’m currently learning **Blockchain development**
-
 - 👨‍💻 All of my projects are available at [https://youssef-waheed.vercel.app](https://youssef-waheed.vercel.app)
 
 - 📫 Reach me at **youssefwaheed@gmail.com**
