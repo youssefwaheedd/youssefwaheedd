@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **youssefwaheed@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/youssefwaheed123/Resume/blob/main/CV.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/youssefwaheedd/Resume/blob/main/CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
