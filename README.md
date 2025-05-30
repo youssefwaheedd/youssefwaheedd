@@ -1,16 +1,71 @@
-<h1 align="center">Hi there 👋, I'm Youssef</h1>
-<h3 align="center">A passionate software engineer & web developer from Egypt</h3>
+<h1 align="center">Hi there 👋, I'm Youssef Waheed</h1>
+<h3 align="center">A Passionate Software Engineer | Full-Stack Developer | Alexandria, Egypt</h3>
 
-- 🔭 I’m currently working on [GloboVibe](https://globovibe-frontend.vercel.app)
-
-- 👨‍💻 All of my projects are available at [https://youssef-waheed.vercel.app](https://youssef-waheed.vercel.app)
-
-- 📫 Reach me at **youssefwaheed@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://github.com/youssefwaheedd/Resume/blob/main/CV.pdf)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/youssefwaheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssefwaheed" height="30" width="40" /></a>
+  I'm a final-year Computer & Communication Engineering student at Alexandria University, driven by a passion for architecting innovative and scalable web solutions. I excel at translating complex requirements into high-performance applications and am always eager to learn and apply new technologies.
 </p>
 
+---
+
+🚀 **Currently Building & Key Project:**
+
+ *  Global Mood Tracker | [Live Demo](https://globovibe-frontend.vercel.app)
+  
+    *   A dynamic global mood tracking application featuring 3D sentiment visualizations.
+    *   Engineered with React.js, Three.js, and React-Globe.gl for the frontend, and Node.js with Express.js for the backend.
+    *   Integrates Google's Gemini AI for advanced sentiment analysis and NewsAPI for real-time event data aggregation.
+    *   Database managed with PostgreSQL and Prisma ORM.
+
+---
+
+💻 **My Core Tech Stack & Tools:**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,nextjs,nodejs,express,postgresql,mysql,mongodb,prisma,html,css,tailwindcss,threejs,git,github,figma,vscode,postman,vite&perline=7" />
+    <!--
+    Skills represented:
+    Languages: JavaScript, TypeScript, Python
+    Frontend: React, HTML, CSS, TailwindCSS, Three.js, Vite
+    Backend: Node.js, Express.js
+    Database: PostgreSQL, Prisma (ORM)
+    Tools: Git, GitHub, Figma, VS Code, Postman, Jest (for testing, if applicable)
+    Adjust 'perline' for how many icons you want per row.
+    Add/remove icons as necessary from skillicons.dev
+    -->
+  </a>
+</p>
+<p align="left">
+  <strong>Also proficient in:</strong> Data Structures & Algorithms, OOP, RESTful API Design, Server-Side Rendering (SSR), Agile Methodologies, Machine Learning, Generative AI Tools
+</p>
+
+---
+
+🌟 **Explore My Work & Qualifications:**
+
+*   **Portfolio:** Discover all my projects at [youssef-waheed.vercel.app](https://youssef-waheed.vercel.app)
+*   **Resume/CV:** For a detailed look at my experience: [View My Resume](https://drive.google.com/file/d/1s5ogABtwCLPE6_pomnK-_rLZf3t0zjwH/view?usp=sharing)
+
+---
+
+🔗 **Let's Connect:**
+
+<p align="left" style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://linkedin.com/in/youssefwaheed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Youssef Waheed LinkedIn" height="30" width="40" /></a>
+</p>
+
+📫 **Get in Touch:**
+*   Email: **youssefwaheed@gmail.com**
+
+---
+
+<p align="left">
+  I am actively seeking challenging Software Engineering internships and entry-level roles where I can contribute to innovative projects, leverage my full-stack development skills, and continue to grow in a collaborative environment.
+</p>
+
+<!-- Optional: GitHub Stats - Uncomment if you want to use them and choose a theme you like -->
+
+<p align="center" style="margin-bottom: 30px">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefwaheedd&show_icons=true&locale=en&layout=compact&theme=radical" alt="youssefwaheedd_top_languages" />
+</p>
