@@ -9,7 +9,7 @@
 
 🚀 **Currently Building & Key Project:**
 
- *  Global Mood Tracker | [Live Demo](https://globovibe.vercel.app)
+ *  Global Mood Tracker | [Live Project](https://globovibe.vercel.app)
   
     *   A dynamic global mood tracking application featuring 3D sentiment visualizations.
     *   Engineered with React.js, Three.js, and React-Globe.gl for the frontend, and Node.js with Express.js for the backend.
