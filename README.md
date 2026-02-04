@@ -59,13 +59,3 @@
 
 ---
 
-<p align="left">
-  I am actively seeking challenging Software Engineering internships and entry-level roles where I can contribute to innovative projects, leverage my full-stack development skills, and continue to grow in a collaborative environment.
-</p>
-
-<!-- Optional: GitHub Stats - Uncomment if you want to use them and choose a theme you like -->
-
-<p align="center" style="margin-bottom: 30px">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefwaheedd&show_icons=true&locale=en&layout=compact&theme=radical" alt="youssefwaheedd_top_languages" />
-</p>
