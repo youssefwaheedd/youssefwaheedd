@@ -1,20 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Youssef Waheed</h1>
-<h3 align="center">A Passionate Software Engineer | Full-Stack Developer | Alexandria, Egypt</h3>
+<h1 align="center">Hi there 👋🏽, I'm Youssef Waheed</h1>
+<h3 align="center">A Passionate Junior Software Engineer @noon | Cairo, Egypt</h3>
 
-<p align="left">
-  I'm a final-year Computer & Communication Engineering student at Alexandria University, driven by a passion for architecting innovative and scalable web solutions. I excel at translating complex requirements into high-performance applications and am always eager to learn and apply new technologies.
-</p>
 
 ---
 
 🚀 **Currently Building & Key Project:**
 
- *  Global Mood Tracker | [Live Project](https://globovibe.vercel.app)
+ *  Taqwa | Islamic app
   
-    *   A dynamic global mood tracking application featuring 3D sentiment visualizations.
-    *   Engineered with React.js, Three.js, and React-Globe.gl for the frontend, and Node.js with Express.js for the backend.
-    *   Integrates Google's Gemini AI for advanced sentiment analysis and NewsAPI for real-time event data aggregation.
-    *   Database managed with PostgreSQL and Prisma ORM.
+    *   Taqwa is a modern Islamic app designed to help users strengthen their faith through daily Athkar, Quran recitation, and spiritual tracking. 
+    *   It combines a clean, calming design with accurate content, intelligent reminders, and smooth transitions to create a meaningful and focused spiritual experience.
 
 ---
 
