@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,nextjs,nodejs,express,postgresql,mysql,mongodb,prisma,html,css,tailwindcss,threejs,git,github,figma,vscode,postman,vite&perline=7" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,tailwindcss,react,nextjs,threejs,python,nodejs,express,postgresql,mysql,mongodb,prisma,git,github,figma,vscode,postman,vite&perline=7" />
     <!--
     Skills represented:
     Languages: JavaScript, TypeScript, Python
@@ -24,15 +24,24 @@
 **Github Stats**
 
 <p align="center">
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefwaheedd&theme=tokyonight_duo" alt="youssefwaheedd" /></p>
+  <img src="https://streak-stats.demolab.com?user=youssefwaheedd&theme=tokyonight-duo&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssefwaheedd&theme=tokyonight" height="170"/>
 </p>
   
 ----
 
 **Let's Connect**
 
-<p align="left" style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://linkedin.com/in/youssefwaheed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Youssef Waheed LinkedIn" height="30" width="40" /></a>
-</p>
+
+  <a href="https://linkedin.com/in/youssefwaheed" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <br/>
+  <a href="mailto:youssefwaheed@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+
+
 
 
